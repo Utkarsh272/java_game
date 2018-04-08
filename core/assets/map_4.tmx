@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="7" tileheight="7" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../Desktop/tile maps/tily3.tsx"/>
+ <tileset firstgid="5293" source="../../../../Desktop/tile maps/tily3.tsx"/>
+ <layer name="dirt" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1zFKA2EYRVHBDWiWZmHh/hciqcI8BAvBmRvOgb9J9e58VV5eAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4+3rrv2dS7XGP63GPa3GPa3GP66nvX/We+v5V76nvX/We+v5V76nvX/We+v5V76nvX/We+v5V76nvX/We+v5V76nvX/We+v5173m9HV/JM96jrL5/1Xvq+1e9p75/1Xvq+1e9p75/1Xvq+1e9p75/1Xvq+9e95+N2fD/9tu8qnvEeZfX9q95T37/qPfX9q95T37/qPfX9q95T37/qPfX9q95T37/+0vPbf8b/eO7xcPYtnvEeZ39P9zg6+3u6x9Hn+/nf1D0evgFrR4zk
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+ <layer name="Tile Layer 2" width="100" height="100" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1TEOwjAMQNFuiFsw9v4nZGCiCEpCi+P4WXoTS+OvhPWyLCsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBRt+tD9Hfw3OMI0WeZxZFNtJ2rQ/Uu0fvWJFeLKn2id9q78xl7RO/a/Xjt0TN2X++ORO8la48zmkbvJGsL92LcHi0Tfe4Mznijos+UWet7su3yS18d95t82vW3u+/p0vq90Tv7d5t3v48wlXrstRphKvfYvj8jzGz/N9lHj7FGj7Fmth53N73vBA==
+  </data>
+ </layer>
+</map>

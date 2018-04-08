@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="4" tileheight="4" nextobjectid="1">
+ <tileset firstgid="1" source="untitled.tsx"/>
+ <layer name="dirt" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0jsuhlEQgOE/0VjC/7m2NNbgfmvsQq2xFY2t2IVaYxc6JxEV58uMyGF4nuRtJ5lzZrEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+s/1lvIPWYeuoddw6aZ22zlrnrYvW5fKnN/o9Mm/73mMw//Qms2+vuXe+nmJ99a+yf/ZXepopO+tl+thnf/Td7zy3Q7Vupn7ZWaPvJbJDtVbW+mVnjb6XyA7VupspO2v0vUR2qNbuer/srNH3EtmhWg8zZWeNvpfIDtW62uiXnTX6XiI7VOt5puys0fcS2aFat5v9srNG30tkh2qtbvXLzhp9L5EdqnU/U3bW6HuJ7FCtve1+2Vmj7yWyQ7V2Wq+k9Ny1
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+</map>

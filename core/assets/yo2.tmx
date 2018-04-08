@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="4" tileheight="4" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../Desktop/tile maps/yo_2.tsx"/>
+ <layer name="dirt" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1LcRAkEQRNFJCFW3e4mgYkElgooFFQsqCtpnjDXb+K/qO22NNREAAAAAAAAAAAAAAPzbdxEHdVQnde7yzd2gRAzVSI3VpOSbu4tuvKqbuqtHyTd30xoxU3O1UMuab+6euvGl3uqjvjXf3K36iLXaqK3a9fnW+g/ct9Z/4L61/gP3rfUfuG+t/8B9a/0H7tsPVdgOEA==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+</map>

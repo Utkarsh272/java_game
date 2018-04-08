@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="40" height="8" tilewidth="32" tileheight="32" nextobjectid="24">
+ <tileset firstgid="1" source="../../../../Desktop/tile maps/tileset_1.tsx"/>
+ <tileset firstgid="235" source="../../../../Desktop/tile maps/tily3.tsx"/>
+ <layer name="dirt" width="40" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BwgGtImFx95OjHZy4twVshyvTD3HcdC76GRA8kHuwAABeIKfw=
+  </data>
+ </layer>
+ <objectgroup name="crystals"/>
+</map>
